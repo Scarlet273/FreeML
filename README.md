@@ -1,23 +1,25 @@
-# Data Science Resources (Mostly Free)
+# Data Science Online Resources
 
-The first half is more or less my learning path in the past two years while the second half is my plan for this year. I tried to make a balance between comprehension and doability. For more extensive lists, you can check [Github search](https://github.com/search?utf8=%E2%9C%93&q=awesome+machine+learning&type=) or [CS video lectures](https://github.com/Developer-Y/cs-video-courses)
+This list is forked from [FreeML](https://github.com/Shujian2015/FreeML) with additional resources I found during my learning journey. 
+For more extensive lists, you can check [Github search](https://github.com/search?utf8=%E2%9C%93&q=awesome+machine+learning&type=) or [CS video lectures](https://github.com/Developer-Y/cs-video-courses)
 
-Hope the list is helpful, especially to whom are not in CS major but interested in data science!
 
 ***
 ## Table of Contents
 
 * [One Month Plan](#one-month-plan)
+* [Data Structure](#data-structure)
+* [Algorithms](#data-structure)
 * [Machine Learning](#machine-learning)
-* [Natural Language Processing](#natural-language-processing)
 * [Deep Learning](#deep-learning)
-* [Systems](#systems)
-* [Analytics](#analytics)
 * [Reinforcement Learning](#reinforcement-learning)
-* [Other Courses](#others)
-* [Interviews](#interviews)
 * [Bayesian](#bayesian)
 * [Time series](#time-series)
+* [Natural Language Processing](#natural-language-processing)
+* [Systems](#systems)
+* [Analytics](#analytics)
+* [Other Courses](#others)
+* [Interviews](#interviews)
 * [Quant](#quant)
 * [More Lists](#more)
 
@@ -26,7 +28,7 @@ Hope the list is helpful, especially to whom are not in CS major but interested 
 
 You may find the list overwhelming. Here is my suggestion if you want to have some basic understanding in one month:
   * Learn Python the hard way: [Free book](https://learnpythonthehardway.org/book/)
-  * Stanford Statistical Learning ([Course page](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)) or Coursera Stanford by Andrew Ng ([Coursera](https://www.coursera.org/learn/machine-learning), [Youtube](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN))
+
   * Ng’s deep learning courses: [Coursera](https://www.coursera.org/specializations/deep-learning)  
   * Stanford - Basic NLP course on Coursera: [Videos](https://www.youtube.com/playlist?list=PL6397E4B26D00A269&disable_polymer=true), [Slides](https://web.stanford.edu/~jurafsky/NLPCourseraSlides.html)
   * Keras in 30 sec: [Link](https://keras.io/#getting-started-30-seconds-to-keras)
@@ -38,18 +40,22 @@ You may find the list overwhelming. Here is my suggestion if you want to have so
   * Coursera Stanford by Andrew Ng: [Coursera](https://www.coursera.org/learn/machine-learning), [Youtube](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
   * Stanford 229: [Youtube](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599), [Course page](
 http://cs229.stanford.edu/syllabus.html)    
-  * Machine Learning Foundations (機器學習基石): [Coursera](https://www.coursera.org/learn/ntumlone-mathematicalfoundations)
+  * Machine Learning Foundations: [Coursera](https://www.coursera.org/learn/ntumlone-mathematicalfoundations)
 , [Youtube](https://www.youtube.com/playlist?list=PLXVfgk9fNX2I7tB6oIINGBmW50rrmFTqf&disable_polymer=true)
-  * Machine Learning Techniques (機器學習技法): [Youtube](https://www.youtube.com/playlist?list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2&disable_polymer=true)
+  * Machine Learning Techniques: [Youtube](https://www.youtube.com/playlist?list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2&disable_polymer=true)
   * CMU 701 by Tom Mitchell: [Course page](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml)
+  * CU W4995 Applied Machine Learning by Andreas Mueller [Course page](http://www.cs.columbia.edu/~amueller/comsw4995s18/syllabus/)
+  * Bloomberg Fondation of Machine Learning by David Rosenberg [Course page](https://bloomberg.github.io/foml)
 
 ### - Textbooks:
   * Introduction to Statistical Learning: [pdf](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf)
   * Computer Age Statistical Inference: Algorithms, Evidence, and Data Science: [pdf](https://web.stanford.edu/~hastie/CASI_files/PDF/casi.pdf)  
   * The Elements of Statistical Learning: [pdf](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
+  * Introduction to Machine Learning with Python: [github](https://github.com/amueller/introduction_to_ml_with_python)
 
 ### - Comments:
-Statistical Learning is the introduction course. It is free to earn a certificate. It follows Introduction to Statistical Learning book closely. Coursera Stanford by Andrew Ng is another introduction course course and quite popular. Taking either of them is enough for most of data science positions. People want to go deeper can take 229 or 701 and read ESL book.
+Stanford Statistical Learning is a good introductory course that explains concept in simple ways and not math heavy. 
+More advanced materials could be found in 229, 701 or ESL book. 
 
 ***
 
