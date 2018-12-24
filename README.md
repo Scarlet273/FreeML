@@ -8,21 +8,29 @@ This list is modified from [FreeML](https://github.com/Shujian2015/FreeML) with 
 ***
 ## Table of Contents
 
-* [Data Structure](#data-structure)
-* [Algorithms](#data-structure)
+* [Data Structure & Algorithms](#data-structure)
 * [Machine Learning](#machine-learning)
 * [Deep Learning](#deep-learning)
 * [Reinforcement Learning](#reinforcement-learning)
 * [Bayesian](#bayesian)
 * [Time series](#time-series)
+
 * [Natural Language Processing](#natural-language-processing)
 * [Systems](#systems)
 * [Analytics](#analytics)
+
 * [Other Courses](#others)
-* [Interviews](#interviews)
+* [Communications](#communications)
 * [Quant](#quant)
 * [More Lists](#more)
 
+
+***
+
+
+## Data Structure:
+
+  * Introduction to Algorithms by MIT: [Course page with videos](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
 
 ***
 
@@ -96,7 +104,7 @@ Ng's courses are already good enough. Reading Part 2 of Goodfellow's book can al
 ## Natural Language Processing: 
 ### - Videos: 
   * CU - W4705: Natural Language Processing: [Course web](http://www.cs.columbia.edu/~cs4705/)
-  * Stanford - Basic NLP course on Coursera: [Videos](https://www.youtube.com/playlist?list=PL6397E4B26D00A269&disable_polymer=true), [Slides](https://web.stanford.edu/~jurafsky/NLPCourseraSlides.html), [AcademicTorrent](http://academictorrents.com/details/d2c8f8f1651740520b7dfab23438d89bc8c0c0ab)
+  * Stanford - Basic NLP course on Coursera: [Videos](https://www.youtube.com/playlist?list=PLoROMvodv4rOFZnDyrlW3-nI7tMLtmiJZ&disable_polymer=true), [Slides](https://web.stanford.edu/~jurafsky/NLPCourseraSlides.html), [AcademicTorrent](http://academictorrents.com/details/d2c8f8f1651740520b7dfab23438d89bc8c0c0ab)
   * Stanford - CS224n Natural Language Processing with Deep Learning: [Course web](http://web.stanford.edu/class/cs224n/), [Videos](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
   * CMU - Neural Nets for NLP 2017: [Course web](http://www.phontron.com/class/nn4nlp2017/schedule.html), [Videos](https://www.youtube.com/playlist?list=PL8PYTP1V4I8ABXzdqtOpB_eqBlVAz_xPT)
   * University of Oxford and DeepMind - Deep Learning for Natural Language Processing: 2016-2017: [Course web](http://www.cs.ox.ac.uk/teaching/courses/2016-2017/dl/), [Videos and slides](https://github.com/oxford-cs-deepnlp-2017/lectures)
@@ -130,7 +138,18 @@ Some other people's collections:
 ## Python  
   * Learn Python the hard way: [Free book](https://learnpythonthehardway.org/book/)
   
-## Systems:
+
+***  
+
+
+## Database 
+  * Database by Stanford: [Course](http://online.stanford.edu/course/databases-self-paced)
+
+
+
+***  
+
+## Distributed Systems:
   * Docker Mastery: [Udemy](https://www.udemy.com/docker-mastery/learn/v4/overview)
   * The Ultimate Hands-On Hadoop: [Udemy](https://www.udemy.com/the-ultimate-hands-on-hadoop-tame-your-big-data/learn/v4/overview)  
   * Spark and Python for Big Data with PySpark: [Udemy](https://www.udemy.com/spark-and-python-for-big-data-with-pyspark/learn/v4)
@@ -145,33 +164,16 @@ Some other people's collections:
   * Data Science for Business: [Amazon](https://www.amazon.com/Data-Science-Business-Data-Analytic-Thinking/dp/1449361323/)
   * Data Smart: [Amazon](https://www.amazon.com/Data-Smart-Science-Transform-Information/dp/111866146X/)
   * Storytelling with Data: [Amazon](https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals/dp/1119002257)
-
-
-
-
-
-
-
-  
-  
-***  
-  
-  
-  
-  
-## Others:
-  * Recommender System by UMN: [Coursera](https://www.coursera.org/specializations/recommender-systems) 
-  * Mining Massive Datasets by Stanford: [Free book](http://www.mmds.org/), [Course](http://online.stanford.edu/course/mining-massive-datasets-self-paced)
-  * Introduction to Algorithms by MIT: [Course page with videos](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
-  * Database by Stanford: [Course](http://online.stanford.edu/course/databases-self-paced)
   * How to Win a Data Science Competition: [Coursera](https://www.coursera.org/learn/competitive-data-science)
   * How to finish a Data Challenge: [Kaggle EDA kernels](https://www.kaggle.com/kernels?sortBy=votes&group=everyone&pageSize=20)
-  
-  
+  * Mining Massive Datasets by Stanford: [Free book](http://www.mmds.org/), [Course](http://online.stanford.edu/course/mining-massive-datasets-self-paced)
+  * Recommender System by UMN: [Coursera](https://www.coursera.org/specializations/recommender-systems) 
+
+
 *** 
   
   
-## Interviews:
+## Communications: 
 
 
 ### - Lists with Solutions:
