@@ -1,7 +1,8 @@
 # Data Science Online Resources
 
-This list is forked from [FreeML](https://github.com/Shujian2015/FreeML) with additional resources I found during my learning journey. 
-For more extensive lists, you can check [Github search](https://github.com/search?utf8=%E2%9C%93&q=awesome+machine+learning&type=) or [CS video lectures](https://github.com/Developer-Y/cs-video-courses)
+This list is modified from [FreeML](https://github.com/Shujian2015/FreeML) with additional resources that I found during studying. 
+
+
 
 
 ***
@@ -28,10 +29,8 @@ For more extensive lists, you can check [Github search](https://github.com/searc
 
 You may find the list overwhelming. Here is my suggestion if you want to have some basic understanding in one month:
   * Learn Python the hard way: [Free book](https://learnpythonthehardway.org/book/)
+  
 
-  * Ng’s deep learning courses: [Coursera](https://www.coursera.org/specializations/deep-learning)  
-  * Stanford - Basic NLP course on Coursera: [Videos](https://www.youtube.com/playlist?list=PL6397E4B26D00A269&disable_polymer=true), [Slides](https://web.stanford.edu/~jurafsky/NLPCourseraSlides.html)
-  * Keras in 30 sec: [Link](https://keras.io/#getting-started-30-seconds-to-keras)
 
 ## Machine Learning:
 
@@ -58,44 +57,18 @@ Stanford Statistical Learning is a good introductory course that explains concep
 More advanced materials could be found in 229, 701 or ESL book. 
 
 ***
-
-
-## Natural Language Processing: 
-### - Videos:
-  * Stanford - Basic NLP course on Coursera: [Videos](https://www.youtube.com/playlist?list=PL6397E4B26D00A269&disable_polymer=true), [Slides](https://web.stanford.edu/~jurafsky/NLPCourseraSlides.html)
-  * Stanford - CS224n Natural Language Processing with Deep Learning: [Course web](http://web.stanford.edu/class/cs224n/), [Videos](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
-  * CMU - Neural Nets for NLP 2017: [Course web](http://www.phontron.com/class/nn4nlp2017/schedule.html), [Videos](https://www.youtube.com/playlist?list=PL8PYTP1V4I8ABXzdqtOpB_eqBlVAz_xPT)
-  * University of Oxford and DeepMind - Deep Learning for Natural Language Processing: 2016-2017: [Course web](http://www.cs.ox.ac.uk/teaching/courses/2016-2017/dl/), [Videos and slides](https://github.com/oxford-cs-deepnlp-2017/lectures)
-  * Sequence Models by Andrew Ng on Coursera: [Coursera](https://www.coursera.org/learn/nlp-sequence-models)
-
-### - Books:
-  * Speech and Language Processing (3rd ed. draft): [Book](https://web.stanford.edu/~jurafsky/slp3/)
-  * An Introduction to Information Retrieval: [pdf](https://nlp.stanford.edu/IR-book/pdf/irbookonlinereading.pdf)
-  * Deep Learning (Some chapters or sections): [Book](www.deeplearningbook.org)
-  * A Primer on Neural Network Models for Natural Language Processing: [Paper](http://u.cs.biu.ac.il/~yogo/nnlp.pdf). Goldberg also published a new book this year
-
-### - Packages:
-  * NLTK: http://www.nltk.org/
-  * Standord packages: https://nlp.stanford.edu/software/
-
-### - Comments:
-The basic NLP course by Stanford is the fundamental one. SLP 3ed follows this course. After this, feel free to take one of the three NLP+DL courses. They basically cover same topics. The Stanford one have HWs available online. CMU one follows Goldberg's book. Deepmind one is much shorter.
-
-### - More:
-Some other people's collections: [NLP](https://github.com/keon/awesome-nlp), [DL-NLP](https://github.com/brianspiering/awesome-dl4nlp), [Speech and NLP](https://github.com/edobashira/speech-language-processing), [Speech](https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers), [RNN](https://github.com/kjw0612/awesome-rnn)
-
-***
-
+  
 ## Deep Learning
 
 ### - Videos:
-  * Ng’s deep learning courses: [Coursera](https://www.coursera.org/specializations/deep-learning). This specialization is so popular. Prof. Ng covers all a lot of details and he is really a good teacher.
+  * Ng’s deep learning courses: [Coursera](https://www.coursera.org/specializations/deep-learning)
   * Tensorflow. Stanford CS20SI: [Youtube](https://www.youtube.com/playlist?list=PLQ0sVbIj3URf94DQtGPJV629ctn2c1zN-)
   * Stanford 231n: Convolutional Neural Networks for Visual Recognition (Spring 2017): [Youtube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv), [Couse page](http://cs231n.stanford.edu/)
   * Stanford 224n: Natural Language Processing with Deep Learning (Winter 2017): [Youtube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6), [Course page](http://web.stanford.edu/class/cs224n/)
   * The self-driving car is a really hot topic recently. Take a look at this short course to see how it works. MIT 6.S094: Deep Learning for Self-Driving Cars: [Youtube](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf), [Couse page](http://selfdrivingcars.mit.edu/)
   * Neural Networks for Machine Learning by Hinton: [Coursera](https://www.coursera.org/learn/neural-networks). This course is so hard for me but it covers almost everything about neural networks. Prof. Hinton is the hero.
   * FAST.ai: [Course](http://www.fast.ai/)
+  * Keras in 30 sec: [Link](https://keras.io/#getting-started-30-seconds-to-keras)
 
 ### - Books:
   * Deep learning book by Ian Goodfellow: http://www.deeplearningbook.org/. Very detailed reference book. 
@@ -108,10 +81,56 @@ Some other people's collections: [NLP](https://github.com/keon/awesome-nlp), [DL
 Ng's courses are already good enough. Reading Part 2 of Goodfellow's book can also be helpful. Learning one kind of DL packages is important, such as Keras, TF or Pytorch. People may choose a focus, either CV or NLP. People want to have deeper understanding of DL can take Hinton's course and read Part 3 of Goodfellow's book. Fast.ai has very practical courses.
 
 
+***
+
+
+## Reinforcement Learning:
+### - Videos:
+  * Udacity: [Course](https://www.udacity.com/course/reinforcement-learning--ud600) 
+  * UCL Course on RL by David Silver: [Course page](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
+  * CS 294: Deep Reinforcement Learning by UC Berkeley, Fall 2017: [Course page](http://rll.berkeley.edu/deeprlcourse/) 
+### - Books:
+  * Reinforcement Learning: An Introduction (2nd): [pdf](http://incompleteideas.net/book/the-book-2nd.html)
+
+
+***
+
+
+## Natural Language Processing: 
+### - Videos: 
+  * CU - W4705: Natural Language Processing: [Course web](http://www.cs.columbia.edu/~cs4705/)
+  * Stanford - Basic NLP course on Coursera: [Videos](https://www.youtube.com/playlist?list=PL6397E4B26D00A269&disable_polymer=true), [Slides](https://web.stanford.edu/~jurafsky/NLPCourseraSlides.html)
+  * Stanford - CS224n Natural Language Processing with Deep Learning: [Course web](http://web.stanford.edu/class/cs224n/), [Videos](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
+  * CMU - Neural Nets for NLP 2017: [Course web](http://www.phontron.com/class/nn4nlp2017/schedule.html), [Videos](https://www.youtube.com/playlist?list=PL8PYTP1V4I8ABXzdqtOpB_eqBlVAz_xPT)
+  * University of Oxford and DeepMind - Deep Learning for Natural Language Processing: 2016-2017: [Course web](http://www.cs.ox.ac.uk/teaching/courses/2016-2017/dl/), [Videos and slides](https://github.com/oxford-cs-deepnlp-2017/lectures)
+  * Sequence Models by Andrew Ng on Coursera: [Coursera](https://www.coursera.org/learn/nlp-sequence-models)
+
+### - Books:
+  * Natural Language Processing with Python: [Book](http://www.nltk.org/book/)
+  * Speech and Language Processing (3rd ed. draft): [Book](https://web.stanford.edu/~jurafsky/slp3/)
+  * An Introduction to Information Retrieval: [pdf](https://nlp.stanford.edu/IR-book/pdf/irbookonlinereading.pdf)
+  * Deep Learning (Some chapters or sections): [Book](www.deeplearningbook.org)
+  * A Primer on Neural Network Models for Natural Language Processing: [Paper](http://u.cs.biu.ac.il/~yogo/nnlp.pdf). Goldberg also published a new book this year
+
+### - Packages:
+  * NLTK: http://www.nltk.org/
+  * Stanford packages: https://nlp.stanford.edu/software/
+
+### - Comments:
+The basic NLP course by Stanford is the fundamental one. SLP 3ed follows this course. After this, feel free to take one of the three NLP+DL courses. They basically cover same topics. The Stanford one have HWs available online. CMU one follows Goldberg's book. Deepmind one is much shorter.
+
+### - More:
+Some other people's collections: 
+[NLP](https://github.com/keon/awesome-nlp)
+[DL-NLP](https://github.com/brianspiering/awesome-dl4nlp)
+[Speech and NLP](https://github.com/edobashira/speech-language-processing)
+[Speech](https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers)
+[RNN](https://github.com/kjw0612/awesome-rnn)
+
+
 ***  
   
-  
-  
+   
   
 ## Systems:
   * Docker Mastery: [Udemy](https://www.udemy.com/docker-mastery/learn/v4/overview)
@@ -132,18 +151,6 @@ Ng's courses are already good enough. Reading Part 2 of Goodfellow's book can al
 
 
 
-***
-
-
-
-
-## Reinforcement Learning:
-### - Videos:
-  * Udacity: [Course](https://www.udacity.com/course/reinforcement-learning--ud600) 
-  * UCL Course on RL by David Silver: [Course page](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
-  * CS 294: Deep Reinforcement Learning by UC Berkeley, Fall 2017: [Course page](http://rll.berkeley.edu/deeprlcourse/) 
-### - Books:
-  * Reinforcement Learning: An Introduction (2nd): [pdf](http://incompleteideas.net/book/the-book-2nd.html)
 
 
 
@@ -242,6 +249,9 @@ Ng's courses are already good enough. Reading Part 2 of Goodfellow's book can al
   * A Collection of Dice Problems: [pdf](http://www.madandmoonly.com/doctormatt/mathematics/dice1.pdf)
 
 
+Additional lists:
+[Github search](https://github.com/search?utf8=%E2%9C%93&q=awesome+machine+learning&type=)
+[CS video lectures](https://github.com/Developer-Y/cs-video-courses)
 
 ***
 
