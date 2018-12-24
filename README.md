@@ -8,7 +8,6 @@ This list is modified from [FreeML](https://github.com/Shujian2015/FreeML) with 
 ***
 ## Table of Contents
 
-* [One Month Plan](#one-month-plan)
 * [Data Structure](#data-structure)
 * [Algorithms](#data-structure)
 * [Machine Learning](#machine-learning)
@@ -24,12 +23,8 @@ This list is modified from [FreeML](https://github.com/Shujian2015/FreeML) with 
 * [Quant](#quant)
 * [More Lists](#more)
 
-***
-## One Month Plan:
 
-You may find the list overwhelming. Here is my suggestion if you want to have some basic understanding in one month:
-  * Learn Python the hard way: [Free book](https://learnpythonthehardway.org/book/)
-  
+***
 
 
 ## Machine Learning:
@@ -129,8 +124,9 @@ Some other people's collections:
 
 
 ***  
-  
-   
+ 
+## Python  
+  * Learn Python the hard way: [Free book](https://learnpythonthehardway.org/book/)
   
 ## Systems:
   * Docker Mastery: [Udemy](https://www.udemy.com/docker-mastery/learn/v4/overview)
