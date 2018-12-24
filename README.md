@@ -16,7 +16,7 @@ This list is modified from [FreeML](https://github.com/Shujian2015/FreeML) with 
 * [Time series](#time-series)
 
 * [Natural Language Processing](#natural-language-processing)
-* [Systems](#systems)
+* [Distributed Systems](#distributed-systems)
 * [Analytics](#analytics)
 
 * [Other Courses](#others)
