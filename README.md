@@ -64,6 +64,8 @@ More advanced materials could be found in 229, 701 or ESL book.
   * Neural Networks for Machine Learning by Hinton: [Coursera](https://www.coursera.org/learn/neural-networks). This course is so hard for me but it covers almost everything about neural networks. Prof. Hinton is the hero.
   * FAST.ai: [Course](http://www.fast.ai/)
   * Keras in 30 sec: [Link](https://keras.io/#getting-started-30-seconds-to-keras)
+  * MIT 6.S191 Introduction to Deep Learning: [Youtube](https://www.youtube.com/watch?v=JN6H4rQvwgY&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
+  * UC Berkeley CS188 Intro to AI: [Course page](http://ai.berkeley.edu/home.html)
 
 ### - Books:
   * Deep learning book by Ian Goodfellow: http://www.deeplearningbook.org/. Very detailed reference book. 
@@ -94,7 +96,7 @@ Ng's courses are already good enough. Reading Part 2 of Goodfellow's book can al
 ## Natural Language Processing: 
 ### - Videos: 
   * CU - W4705: Natural Language Processing: [Course web](http://www.cs.columbia.edu/~cs4705/)
-  * Stanford - Basic NLP course on Coursera: [Videos](https://www.youtube.com/playlist?list=PL6397E4B26D00A269&disable_polymer=true), [Slides](https://web.stanford.edu/~jurafsky/NLPCourseraSlides.html)
+  * Stanford - Basic NLP course on Coursera: [Videos](https://www.youtube.com/playlist?list=PL6397E4B26D00A269&disable_polymer=true), [Slides](https://web.stanford.edu/~jurafsky/NLPCourseraSlides.html), [AcademicTorrent](http://academictorrents.com/details/d2c8f8f1651740520b7dfab23438d89bc8c0c0ab)
   * Stanford - CS224n Natural Language Processing with Deep Learning: [Course web](http://web.stanford.edu/class/cs224n/), [Videos](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
   * CMU - Neural Nets for NLP 2017: [Course web](http://www.phontron.com/class/nn4nlp2017/schedule.html), [Videos](https://www.youtube.com/playlist?list=PL8PYTP1V4I8ABXzdqtOpB_eqBlVAz_xPT)
   * University of Oxford and DeepMind - Deep Learning for Natural Language Processing: 2016-2017: [Course web](http://www.cs.ox.ac.uk/teaching/courses/2016-2017/dl/), [Videos and slides](https://github.com/oxford-cs-deepnlp-2017/lectures)
