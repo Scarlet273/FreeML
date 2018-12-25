@@ -18,6 +18,7 @@ This list is modified from [FreeML](https://github.com/Shujian2015/FreeML) with 
 * [Natural Language Processing](#natural-language-processing)
 * [Distributed Systems](#distributed-systems)
 * [Analytics](#analytics)
+* [maths](#maths)
 
 * [Other Courses](#others)
 * [Communications](#communications)
@@ -28,7 +29,7 @@ This list is modified from [FreeML](https://github.com/Shujian2015/FreeML) with 
 ***
 
 
-## Data Structure:
+## Data Structure & Algorithms:
 
   * Introduction to Algorithms by MIT: [Course page with videos](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
 
@@ -47,6 +48,7 @@ http://cs229.stanford.edu/syllabus.html)
   * Machine Learning Techniques: [Youtube](https://www.youtube.com/playlist?list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2&disable_polymer=true)
   * CMU 701 by Tom Mitchell: [Course page](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml)
   * CU W4995 Applied Machine Learning by Andreas Mueller [Course page](http://www.cs.columbia.edu/~amueller/comsw4995s18/syllabus/)
+  * CU 4771 Machine Learning [Course page](http://www.cs.columbia.edu/~djhsu/coms4771-f18/)
   * Bloomberg Fondation of Machine Learning by David Rosenberg [Course page](https://bloomberg.github.io/foml)
 
 ### - Textbooks:
@@ -150,9 +152,16 @@ Some other people's collections:
 ***  
 
 ## Distributed Systems:
+  * CU W4121 Computer Systems for Data Science: [Course](https://w4121.github.io)
   * Docker Mastery: [Udemy](https://www.udemy.com/docker-mastery/learn/v4/overview)
   * The Ultimate Hands-On Hadoop: [Udemy](https://www.udemy.com/the-ultimate-hands-on-hadoop-tame-your-big-data/learn/v4/overview)  
   * Spark and Python for Big Data with PySpark: [Udemy](https://www.udemy.com/spark-and-python-for-big-data-with-pyspark/learn/v4)
+  
+  
+***
+  
+## Maths:
+  
   
   
   
