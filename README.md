@@ -8,21 +8,28 @@ This list is modified from [FreeML](https://github.com/Shujian2015/FreeML) with 
 ***
 ## Table of Contents
 
+### 1. Foundations 
 * [Data Structure & Algorithms](#data-structure)
+* [Probability & Statistics](#probability&statistics)
+* [Python](#python)
+* [Database](#database)
+* [Tools](#tools)
+
+### 2. Data Science
 * [Machine Learning](#machine-learning)
 * [Deep Learning](#deep-learning)
 * [Reinforcement Learning](#reinforcement-learning)
 * [Bayesian](#bayesian)
 * [Time series](#time-series)
 
+### 3. Topics
 * [Natural Language Processing](#natural-language-processing)
 * [Distributed Systems](#distributed-systems)
 * [Analytics](#analytics)
-* [maths](#maths)
+* [Quant](#quant)
 
 * [Other Courses](#others)
 * [Communications](#communications)
-* [Quant](#quant)
 * [More Lists](#more)
 
 
@@ -32,6 +39,39 @@ This list is modified from [FreeML](https://github.com/Shujian2015/FreeML) with 
 ## Data Structure & Algorithms:
 
   * Introduction to Algorithms by MIT: [Course page with videos](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
+
+
+*** 
+
+
+## Probability & Statistics:
+
+  * Stanford CS109 Introduction to Probability for Computer Scientists: [Course page] (http://web.stanford.edu/class/archive/cs/cs109/cs109.1166/)
+  * NYU 1002 Statistical and Mathematical Methods: [Course page](https://cims.nyu.edu/~cfgranda/pages/DSGA1002_fall17/schedule.html)
+[2015](https://cims.nyu.edu/~cfgranda/pages/DSGA1002_fall15/index.html)
+  * Harvard Statistics110: [Course page](https://projects.iq.harvard.edu/stat110/about)
+
+
+***  
+ 
+## Python  
+  * Learn Python the hard way: [Free book](https://learnpythonthehardway.org/book/)
+  
+
+***  
+
+
+## Database 
+  * Database by Stanford: [Course](http://online.stanford.edu/course/databases-self-paced)
+
+
+***
+
+## Tools
+
+  * USF MSDS692 Data acquisition: [Course page](https://github.com/parrt/msds692)
+  * USF MSDS501 Computational Data Science Bootcamp: [Course page](https://github.com/parrt/msds501)
+
 
 ***
 
@@ -61,8 +101,10 @@ http://cs229.stanford.edu/syllabus.html)
 Stanford Statistical Learning is a good introductory course that explains concept in simple ways and not math heavy. 
 More advanced materials could be found in 229, 701 or ESL book. 
 
+
 ***
-  
+
+
 ## Deep Learning
 
 ### - Videos:
@@ -103,6 +145,39 @@ Ng's courses are already good enough. Reading Part 2 of Goodfellow's book can al
 ***
 
 
+## Bayesian:
+### - Courses:
+  * Bayesian Statistics: From Concept to Data Analysis: [Coursera](https://www.coursera.org/learn/bayesian-statistics)
+  * Bayesian Methods for Machine Learning: [Coursera](https://www.coursera.org/learn/bayesian-methods-in-machine-learning)
+  * Statistical Rethinking: [Course Page](http://xcelab.net/rm/statistical-rethinking/) (Recorded Lectures: Winter 2015, Fall 2017)
+
+### - Book:
+  * Bayesian Data Analysis, Third Edition
+  * Applied Predictive Modeling
+
+
+
+*** 
+
+
+
+## Time series:
+### - Courses:
+  * Time Series Forecasting (Udacity): [Udacity](https://www.udacity.com/course/time-series-forecasting--ud980)
+  * Topics in Mathematics with Applications in Finance (MIT): [Course page](https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/), [Youtube](https://www.youtube.com/playlist?list=PLUl4u3cNGP63ctJIEC1UnZ0btsphnnoHR)
+
+### - Books:
+  * Time Series Analysis and Its Applications: [Springer](http://www.springer.com/us/book/9783319524511)
+
+### - With LSTM:
+  * https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/
+  * https://machinelearningmastery.com/multivariate-time-series-forecasting-lstms-keras/
+  * More: https://machinelearningmastery.com/?s=Time+Series&submit=Search
+
+
+*** 
+
+
 ## Natural Language Processing: 
 ### - Videos: 
   * CU - W4705: Natural Language Processing: [Course web](http://www.cs.columbia.edu/~cs4705/)
@@ -136,20 +211,6 @@ Some other people's collections:
 
 
 ***  
- 
-## Python  
-  * Learn Python the hard way: [Free book](https://learnpythonthehardway.org/book/)
-  
-
-***  
-
-
-## Database 
-  * Database by Stanford: [Course](http://online.stanford.edu/course/databases-self-paced)
-
-
-
-***  
 
 ## Distributed Systems:
   * CU W4121 Computer Systems for Data Science: [Course](https://w4121.github.io)
@@ -160,13 +221,6 @@ Some other people's collections:
   
 ***
   
-## Maths:
-  
-  
-  
-  
-  
-***
   
 ## Analytics:
   * Lean Analytics: [Amazon](https://www.amazon.com/Lean-Analytics-Better-Startup-Faster/dp/B00AG66LTM/)
@@ -202,45 +256,6 @@ Some other people's collections:
   
 
 
-
-
-***
-
-# Topics to Learn ->
-
-*** 
-
-## Bayesian:
-### - Courses:
-  * Bayesian Statistics: From Concept to Data Analysis: [Coursera](https://www.coursera.org/learn/bayesian-statistics)
-  * Bayesian Methods for Machine Learning: [Coursera](https://www.coursera.org/learn/bayesian-methods-in-machine-learning)
-  * Statistical Rethinking: [Course Page](http://xcelab.net/rm/statistical-rethinking/) (Recorded Lectures: Winter 2015, Fall 2017)
-
-### - Book:
-  * Bayesian Data Analysis, Third Edition
-  * Applied Predictive Modeling
-
-
-
-*** 
-
-
-
-## Time series:
-### - Courses:
-  * Time Series Forecasting (Udacity): [Udacity](https://www.udacity.com/course/time-series-forecasting--ud980)
-  * Topics in Mathematics with Applications in Finance (MIT): [Course page](https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/), [Youtube](https://www.youtube.com/playlist?list=PLUl4u3cNGP63ctJIEC1UnZ0btsphnnoHR)
-
-### - Books:
-  * Time Series Analysis and Its Applications: [Springer](http://www.springer.com/us/book/9783319524511)
-
-### - With LSTM:
-  * https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/
-  * https://machinelearningmastery.com/multivariate-time-series-forecasting-lstms-keras/
-  * More: https://machinelearningmastery.com/?s=Time+Series&submit=Search
-
-
-
 *** 
 
 
@@ -258,13 +273,7 @@ Some other people's collections:
   * A Collection of Dice Problems: [pdf](http://www.madandmoonly.com/doctormatt/mathematics/dice1.pdf)
 
 
-Additional lists:
+## More: 
 [Github search](https://github.com/search?utf8=%E2%9C%93&q=awesome+machine+learning&type=)
 [CS video lectures](https://github.com/Developer-Y/cs-video-courses)
 
-***
-
-
-## More:
-  * Computer Science courses with video lectures: https://github.com/Developer-Y/cs-video-courses
-  * The Open Source Data Science Masters: http://datasciencemasters.org
