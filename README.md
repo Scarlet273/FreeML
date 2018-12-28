@@ -18,6 +18,7 @@ This list is modified from [FreeML](https://github.com/Shujian2015/FreeML) with 
 ### 2. Data Science
 * [Machine Learning](#machine-learning)
 * [Deep Learning](#deep-learning)
+* [Artificial Inteligence](#artificial-inteligence)
 * [Reinforcement Learning](#reinforcement-learning)
 * [Bayesian](#bayesian)
 * [Time series](#time-series)
@@ -114,11 +115,9 @@ More advanced materials could be found in 229, 701 or ESL book.
   * Stanford 224n: Natural Language Processing with Deep Learning (Winter 2017): [Youtube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6), [Course page](http://web.stanford.edu/class/cs224n/)
   * The self-driving car is a really hot topic recently. Take a look at this short course to see how it works. MIT 6.S094: Deep Learning for Self-Driving Cars: [Youtube](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf), [Couse page](http://selfdrivingcars.mit.edu/)
   * Neural Networks for Machine Learning by Hinton: [Coursera](https://www.coursera.org/learn/neural-networks). This course is so hard for me but it covers almost everything about neural networks. Prof. Hinton is the hero.
-  * FAST.ai: [Course](http://www.fast.ai/)
   * Keras in 30 sec: [Link](https://keras.io/#getting-started-30-seconds-to-keras)
   * MIT 6.S191 Introduction to Deep Learning: [Youtube](https://www.youtube.com/watch?v=JN6H4rQvwgY&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
-  * UC Berkeley CS188 Intro to AI: [Course page](http://ai.berkeley.edu/home.html)
-  * CMU 681 Artificial Intelligence by Tuomas Sandholm: [Course page](http://www.cs.cmu.edu/~15381-f17/)
+
 
 ### - Books:
   * Deep learning book by Ian Goodfellow: http://www.deeplearningbook.org/. Very detailed reference book. 
@@ -141,6 +140,20 @@ Ng's courses are already good enough. Reading Part 2 of Goodfellow's book can al
   * CS 294: Deep Reinforcement Learning by UC Berkeley, Fall 2017: [Course page](http://rll.berkeley.edu/deeprlcourse/) 
 ### - Books:
   * Reinforcement Learning: An Introduction (2nd): [pdf](http://incompleteideas.net/book/the-book-2nd.html)
+
+
+***
+
+## Artificial Inteligence
+
+### - Courses:
+  * FAST.ai: [Course](http://www.fast.ai/)
+  * UC Berkeley CS188 Intro to AI: [Course page](http://ai.berkeley.edu/home.html)
+  * CMU 681 Artificial Intelligence by Tuomas Sandholm: [Course page](http://www.cs.cmu.edu/~15381-f17/)
+
+### - Comments:
+
+
 
 
 ***
