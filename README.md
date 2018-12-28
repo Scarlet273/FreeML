@@ -118,6 +118,7 @@ More advanced materials could be found in 229, 701 or ESL book.
   * Keras in 30 sec: [Link](https://keras.io/#getting-started-30-seconds-to-keras)
   * MIT 6.S191 Introduction to Deep Learning: [Youtube](https://www.youtube.com/watch?v=JN6H4rQvwgY&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
   * UC Berkeley CS188 Intro to AI: [Course page](http://ai.berkeley.edu/home.html)
+  * CMU 681 Artificial Intelligence by Tuomas Sandholm: [Course page](http://www.cs.cmu.edu/~15381-f17/)
 
 ### - Books:
   * Deep learning book by Ian Goodfellow: http://www.deeplearningbook.org/. Very detailed reference book. 
