@@ -1,8 +1,7 @@
 # Data Science Online Resources
 
-This list is modified from [FreeML](https://github.com/Shujian2015/FreeML) with additional resources that I found during studying. 
 
-
+This a list of data science learning materials organized by topics. 
 
 
 ***
@@ -11,7 +10,9 @@ This list is modified from [FreeML](https://github.com/Shujian2015/FreeML) with 
 ### 1. Foundations 
 * [Data Structure & Algorithms](#data-structure)
 * [Probability & Statistics](#probability&statistics)
+* [Linear Algebra](#linear-algebra)
 * [Python](#python)
+* [R](#r)
 * [Database](#database)
 * [Tools](#tools)
 
@@ -39,9 +40,11 @@ This list is modified from [FreeML](https://github.com/Shujian2015/FreeML) with 
 
 ## Data Structure & Algorithms:
 
+  * Problem Solving with Algorithms and Data Structures using Python (Brad Miller and David Ranum): [Book](https://interactivepython.org/courselib/static/pythonds/index.html) 
+  * Grokking Algorithms (Aditya Y. Bhargava): [Github](https://github.com/egonSchiele/grokking_algorithms)
   * Introduction to Algorithms by MIT: [Course page with videos](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
-
-
+    * Python Tutor: [Website](http://pythontutor.com)
+  
 *** 
 
 
@@ -51,16 +54,24 @@ This list is modified from [FreeML](https://github.com/Shujian2015/FreeML) with 
   * NYU 1002 Statistical and Mathematical Methods: [Course page](https://cims.nyu.edu/~cfgranda/pages/DSGA1002_fall17/schedule.html)
 [2015](https://cims.nyu.edu/~cfgranda/pages/DSGA1002_fall15/index.html)
   * Harvard Statistics110: [Course page](https://projects.iq.harvard.edu/stat110/about)
-
+  * Think Bayes (Allen B. Downey): [Book](http://www.greenteapress.com/thinkbayes/html/index.html)
+  * Think Stats (Allen B. Downey): [Book](http://greenteapress.com/thinkstats2/html/index.html)
 
 ***  
  
 ## Python  
+  * Python for Data Analysis (Wes McKinney): 
   * Learn Python the hard way: [Free book](https://learnpythonthehardway.org/book/)
   
 
 ***  
 
+
+## R
+  * R for Data Science (Hadley Wickham): [Free book](https://r4ds.had.co.nz)
+  
+
+*** 
 
 ## Database 
   * Database by Stanford: [Course](http://online.stanford.edu/course/databases-self-paced)
@@ -68,7 +79,7 @@ This list is modified from [FreeML](https://github.com/Shujian2015/FreeML) with 
 
 ***
 
-## Tools
+## Others
 
   * USF MSDS692 Data acquisition: [Course page](https://github.com/parrt/msds692)
   * USF MSDS501 Computational Data Science Bootcamp: [Course page](https://github.com/parrt/msds501)
@@ -272,12 +283,7 @@ Some other people's collections:
 
 *** 
 
-
-
 ## Quant:
-### - Books:
-  * Heard on the Street: Quantitative Questions from Wall Street Job Interviews by Timothy Falcon Crack: [Amazon]( https://www.amazon.com/Heard-Street-Quantitative-Questions-Interviews/dp/0994138636/)
-  * A Practical Guide To Quantitative Finance Interviews by Xinfeng Zhou: [Amazon](https://www.amazon.com/Practical-Guide-Quantitative-Finance-Interviews/dp/1438236662/)
 
 ### - Courses:
   * Financial Markets with Robert Shiller (Yale): [Youtube](https://www.youtube.com/playlist?list=PL8FB14A2200B87185), [Coursera](https://www.coursera.org/learn/financial-markets-global)
@@ -285,6 +291,9 @@ Some other people's collections:
 
 ### - Other:
   * A Collection of Dice Problems: [pdf](http://www.madandmoonly.com/doctormatt/mathematics/dice1.pdf)
+
+
+*** 
 
 
 ## More: 
