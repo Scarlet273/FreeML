@@ -1,7 +1,7 @@
 # Data Science Online Resources
 
 
-This a list of data science learning materials organized by topics. 
+This is a list of data science learning materials organized by topics. 
 
 
 ***
