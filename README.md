@@ -50,7 +50,7 @@ This is a list of data science learning materials organized by topics.
 
 ## Probability & Statistics:
 
-  * Stanford CS109 Introduction to Probability for Computer Scientists: [Course page] (http://web.stanford.edu/class/archive/cs/cs109/cs109.1166/)
+  * Stanford CS109 Introduction to Probability for Computer Scientists: [Course page](http://web.stanford.edu/class/archive/cs/cs109/cs109.1166/)
   * NYU 1002 Statistical and Mathematical Methods: [Course page](https://cims.nyu.edu/~cfgranda/pages/DSGA1002_fall17/schedule.html)
 [2015](https://cims.nyu.edu/~cfgranda/pages/DSGA1002_fall15/index.html)
   * Harvard Statistics110: [Course page](https://projects.iq.harvard.edu/stat110/about)
