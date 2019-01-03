@@ -177,6 +177,7 @@ Ng's courses are already good enough. Reading Part 2 of Goodfellow's book can al
   * Statistical Rethinking: [Course Page](http://xcelab.net/rm/statistical-rethinking/) (Recorded Lectures: Winter 2015, Fall 2017)
 
 ### - Book:
+  * Bayesian Reasoning and Machine Learning: [Online book](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage)
   * Bayesian Data Analysis, Third Edition
   * Applied Predictive Modeling
 
