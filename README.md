@@ -83,6 +83,7 @@ This is a list of data science learning materials organized by topics.
 
   * USF MSDS692 Data acquisition: [Course page](https://github.com/parrt/msds692)
   * USF MSDS501 Computational Data Science Bootcamp: [Course page](https://github.com/parrt/msds501)
+  * COMPSCI 109A: Data Science 1: Introduction to Data Science: [Course page](https://canvas.harvard.edu/courses/29726)
 
 
 ***
