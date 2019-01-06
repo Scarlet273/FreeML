@@ -124,6 +124,8 @@ More advanced materials could be found in 229, 701 or ESL book.
   * Ng’s deep learning courses: [Coursera](https://www.coursera.org/specializations/deep-learning)
   * Tensorflow. Stanford CS20SI: [Youtube](https://www.youtube.com/playlist?list=PLQ0sVbIj3URf94DQtGPJV629ctn2c1zN-)
   * Stanford 231n: Convolutional Neural Networks for Visual Recognition (Spring 2017): [Youtube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv), [Couse page](http://cs231n.stanford.edu/)
+  * Stanford CS230: Deep Learning: [Couse page](http://cs230.stanford.edu/index.html), [Github](https://cs230-stanford.github.io)
+  * Deep Learning Specialization: [Youtube](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w/playlists)
   * Stanford 224n: Natural Language Processing with Deep Learning (Winter 2017): [Youtube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6), [Course page](http://web.stanford.edu/class/cs224n/)
   * The self-driving car is a really hot topic recently. Take a look at this short course to see how it works. MIT 6.S094: Deep Learning for Self-Driving Cars: [Youtube](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf), [Couse page](http://selfdrivingcars.mit.edu/)
   * Neural Networks for Machine Learning by Hinton: [Coursera](https://www.coursera.org/learn/neural-networks). This course is so hard for me but it covers almost everything about neural networks. Prof. Hinton is the hero.
