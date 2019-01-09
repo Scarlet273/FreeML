@@ -27,6 +27,7 @@ This is a list of data science learning materials organized by topics.
 ### 3. Topics
 * [Natural Language Processing](#natural-language-processing)
 * [Distributed Systems](#distributed-systems)
+* [Cryptography](#cryptography)
 * [Analytics](#analytics)
 * [Quant](#quant)
 
@@ -257,9 +258,22 @@ Some other people's collections:
   * Mining of Massive Dataset: [book](http://www.mmds.org)
   * Data-Intensive Text Processing with MapReduce: [book](http://lintool.github.io/MapReduceAlgorithms/index.html)
   
+  
 ***
+ 
+ 
+## Cryptography
+
+### - Courses: 
+  * Stanford CS255: Introduction to Cryptography: [Course](https://crypto.stanford.edu/~dabo/cs255/)
+  * Stanford CS 355: Topics in Cryptography: [Course](https://crypto.stanford.edu/cs355/18sp/)
   
   
+### - Books:
+  A Graduate Course in Applied Cryptography: [book](https://toc.cryptobook.us)
+  
+  
+***
 ## Analytics:
   * Lean Analytics: [Amazon](https://www.amazon.com/Lean-Analytics-Better-Startup-Faster/dp/B00AG66LTM/)
   * Data Science for Business: [Amazon](https://www.amazon.com/Data-Science-Business-Data-Analytic-Thinking/dp/1449361323/)
@@ -312,4 +326,5 @@ Some other people's collections:
 ## More: 
 [Github search](https://github.com/search?utf8=%E2%9C%93&q=awesome+machine+learning&type=)
 [CS video lectures](https://github.com/Developer-Y/cs-video-courses)
+[Explore Course](https://explorecourses.stanford.edu)
 
