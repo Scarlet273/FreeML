@@ -122,15 +122,15 @@ More advanced materials could be found in 229, 701 or ESL book.
 
 ### - Videos:
   * Ng’s deep learning courses: [Coursera](https://www.coursera.org/specializations/deep-learning)
-  * Tensorflow. Stanford CS20SI: [Youtube](https://www.youtube.com/playlist?list=PLQ0sVbIj3URf94DQtGPJV629ctn2c1zN-)
-  * Stanford 231n: Convolutional Neural Networks for Visual Recognition (Spring 2017): [Youtube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv), [Couse page](http://cs231n.stanford.edu/)
   * Stanford CS230: Deep Learning: [Couse page](http://cs230.stanford.edu/index.html), [Github](https://cs230-stanford.github.io)
+  * Stanford 231n: Convolutional Neural Networks for Visual Recognition (Spring 2017): [Youtube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv), [Couse page](http://cs231n.stanford.edu/)
   * Deep Learning Specialization: [Youtube](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w/playlists)
   * Stanford 224n: Natural Language Processing with Deep Learning (Winter 2017): [Youtube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6), [Course page](http://web.stanford.edu/class/cs224n/)
-  * The self-driving car is a really hot topic recently. Take a look at this short course to see how it works. MIT 6.S094: Deep Learning for Self-Driving Cars: [Youtube](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf), [Couse page](http://selfdrivingcars.mit.edu/)
+  * MIT 6.S094: Deep Learning for Self-Driving Cars: [Youtube](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf), [Couse page](http://selfdrivingcars.mit.edu/)
+  * MIT 6.S191 Introduction to Deep Learning: [Youtube](https://www.youtube.com/watch?v=JN6H4rQvwgY&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
   * Neural Networks for Machine Learning by Hinton: [Coursera](https://www.coursera.org/learn/neural-networks). This course is so hard for me but it covers almost everything about neural networks. Prof. Hinton is the hero.
   * Keras in 30 sec: [Link](https://keras.io/#getting-started-30-seconds-to-keras)
-  * MIT 6.S191 Introduction to Deep Learning: [Youtube](https://www.youtube.com/watch?v=JN6H4rQvwgY&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
+  * Tensorflow. Stanford CS20SI: [Youtube](https://www.youtube.com/playlist?list=PLQ0sVbIj3URf94DQtGPJV629ctn2c1zN-)
 
 
 ### - Books:
@@ -159,6 +159,8 @@ Ng's courses are already good enough. Reading Part 2 of Goodfellow's book can al
 ***
 
 ## Artificial Inteligence
+
+I seperated AI from DL/RL here since I found there are many very specialized courses, but their content overlappes with each other a lot. 
 
 ### - Courses:
   * FAST.ai: [Course](http://www.fast.ai/)
@@ -242,11 +244,18 @@ Some other people's collections:
 ***  
 
 ## Distributed Systems:
+### - Courses: 
+  * Stanford CS246: Mining Massive Dataset: [Course](http://web.stanford.edu/class/cs246/)
+  * Stanford CS345A: Data Mining: [Course](http://infolab.stanford.edu/~ullman/mining/2009/index.html)
   * CU W4121 Computer Systems for Data Science: [Course](https://w4121.github.io)
+  * NYU Big Data: [Course](https://vgc.poly.edu/~juliana/courses/BigData2018/), [Wiki](https://www.vistrails.org/index.php/Course:_Big_Data_2016)
   * Docker Mastery: [Udemy](https://www.udemy.com/docker-mastery/learn/v4/overview)
   * The Ultimate Hands-On Hadoop: [Udemy](https://www.udemy.com/the-ultimate-hands-on-hadoop-tame-your-big-data/learn/v4/overview)  
   * Spark and Python for Big Data with PySpark: [Udemy](https://www.udemy.com/spark-and-python-for-big-data-with-pyspark/learn/v4)
   
+### - Books:
+  * Mining of Massive Dataset: [book](http://www.mmds.org)
+  * Data-Intensive Text Processing with MapReduce: [book](http://lintool.github.io/MapReduceAlgorithms/index.html)
   
 ***
   
