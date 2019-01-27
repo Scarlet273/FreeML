@@ -161,10 +161,10 @@ Ng's courses are already good enough. Reading Part 2 of Goodfellow's book can al
 
 ## Artificial Inteligence
 
-I seperated AI from DL/RL here since I found there are many very specialized courses, but their content overlappes with each other a lot. 
+I seperated AI from DL/RL here since there are some specialized AI courses. But the content of AI and DL overlappes with each other a lot. 
 
 ### - Courses:
-  * FAST.ai: [Course](http://www.fast.ai/)
+  * FAST.ai: [Course](http://www.fast.ai/). A practical deep learning course. 
   * UC Berkeley CS188 Intro to AI: [Course page](http://ai.berkeley.edu/home.html)
   * CMU 681 Artificial Intelligence by Tuomas Sandholm: [Course page](http://www.cs.cmu.edu/~15381-f17/)
 
@@ -186,7 +186,6 @@ I seperated AI from DL/RL here since I found there are many very specialized cou
   * Bayesian Reasoning and Machine Learning: [Online book](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage)
   * Bayesian Data Analysis, Third Edition
   * Applied Predictive Modeling
-
 
 
 *** 
