@@ -45,6 +45,7 @@ This is a list of data science learning materials organized by topics.
   * Grokking Algorithms (Aditya Y. Bhargava): [Github](https://github.com/egonSchiele/grokking_algorithms)
   * Introduction to Algorithms by MIT: [Course page with videos](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
     * Python Tutor: [Website](http://pythontutor.com)
+    * MSDS689 Problem Solving with Python: [Github](https://github.com/parrt/msds689)
   
 *** 
 
@@ -77,7 +78,6 @@ This is a list of data science learning materials organized by topics.
 ## Database 
   * Database by Stanford: [Course](http://online.stanford.edu/course/databases-self-paced)
 
-
 ***
 
 ## Others
@@ -94,7 +94,7 @@ This is a list of data science learning materials organized by topics.
 
 ### - Videos:
   * Stanford Statistical Learning: [Course page](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
-  * Coursera Stanford by Andrew Ng: [Coursera](https://www.coursera.org/learn/machine-learning), [Youtube](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
+  * Coursera - Andrew Ng: [Coursera](https://www.coursera.org/learn/machine-learning), [Youtube](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
   * Stanford 229: [Youtube](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599), [Course page](
 http://cs229.stanford.edu/syllabus.html)    
   * Machine Learning Foundations: [Coursera](https://www.coursera.org/learn/ntumlone-mathematicalfoundations)
@@ -249,9 +249,9 @@ Some other people's collections:
   * Stanford CS345A: Data Mining: [Course](http://infolab.stanford.edu/~ullman/mining/2009/index.html)
   * CU W4121 Computer Systems for Data Science: [Course](https://w4121.github.io)
   * NYU Big Data: [Course](https://vgc.poly.edu/~juliana/courses/BigData2018/), [Wiki](https://www.vistrails.org/index.php/Course:_Big_Data_2016)
-  * Docker Mastery: [Udemy](https://www.udemy.com/docker-mastery/learn/v4/overview)
   * The Ultimate Hands-On Hadoop: [Udemy](https://www.udemy.com/the-ultimate-hands-on-hadoop-tame-your-big-data/learn/v4/overview)  
   * Spark and Python for Big Data with PySpark: [Udemy](https://www.udemy.com/spark-and-python-for-big-data-with-pyspark/learn/v4)
+    * Docker Mastery: [Udemy](https://www.udemy.com/docker-mastery/learn/v4/overview)
   
 ### - Books:
   * Mining of Massive Dataset: [book](http://www.mmds.org)
